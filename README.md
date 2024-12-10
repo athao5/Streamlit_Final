@@ -1,7 +1,7 @@
-# Global Shark Attack Dashboard Streamlit App
+# Global Shark Attack Streamlit App
 
 ### Introduction
-The Global Shark Attack Dashboard Streamlit App is an interactive tool that allows users to explore shark attack data globally. This app is a transition from a Tableau dashboard, providing an easy-to-use interface for analyzing trends, victim demographics, attack types, and geographical patterns. With Streamlit, users can dynamically filter and visualize data in real time, making it more accessible and user-friendly.
+The Global Shark Attack Streamlit App is an interactive tool that allows users to explore shark attack data globally. This app is a transition from a Tableau dashboard, providing an easy-to-use interface for analyzing trends, victim demographics, attack types, and geographical patterns. With Streamlit, users can dynamically filter and visualize data in real time, making it more accessible and user-friendly.
 
 ### Data/Operation Abstraction Design
 Data
