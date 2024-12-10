@@ -19,6 +19,7 @@ Users can filter the data through interactive widgets (sliders, dropdowns, etc.)
 Future improvements could include adding environmental data (e.g., water temperature), advanced filters, predictive analytics, and mobile optimization. Additionally, user profiles and custom data analysis options could enhance the app’s interactivity. These updates will make the app even more useful for researchers and the public alike.
 
 Link to Streamlit App: https://appfinal-cq4kg29rvttqh9qgwesmj4.streamlit.app/
+
 Link to Tableau Dashboard: [https://public.tableau.com/views/GlobalSharkAttackAnalysis_17298671938860/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 
